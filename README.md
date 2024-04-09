@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Meu nome é André, sou estudante de Engenharia de Computação na UNIFEI.
+
+Gosto de programar, jogar jogos (e pretendo fazer jogos algum dia), e fazer desenhos! ⌨️🎮✏️
+
 <!--
 **andreunderstars/andreunderstars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

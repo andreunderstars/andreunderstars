@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é André, sou estudante de Engenharia de Computação na UNIFEI.
+Meu nome é André, sou estudante de Sistemas de Informação na UNIFEI.
 
 Gosto de programar, jogar jogos (e pretendo fazer jogos algum dia), e fazer desenhos! ⌨️🎮✏️
 
